@@ -1,7 +1,7 @@
 
 # Netflix clone using ReactJS
 
-hey guys,I built this netflix clone using ReactJS and an API providedf by the moviedb.
+hey guys,I built this netflix clone using ReactJS and an API provided by the moviedb.
 
 The base URL of the API is https://api.themoviedb.org/3 .
 
